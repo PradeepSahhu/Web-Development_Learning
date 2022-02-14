@@ -6,6 +6,8 @@
 - using css positioning to adjust the div(containers of the.
 - Many div containers on top of each other. 
 - unresponsive. 
+![unresponsiveNavigationBar](https://user-images.githubusercontent.com/94203408/153798654-1f136834-6e50-4aa9-bcfd-a60b7ee7d936.png)
+
 
 ## Responsive Navigation Bar.
 - responsive (adjustable) navigation bar.
