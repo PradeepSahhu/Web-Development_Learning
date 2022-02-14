@@ -7,11 +7,12 @@
 - Many div containers on top of each other. 
 - unresponsive. 
 
-### Responsive Navigation Bar.
+## Responsive Navigation Bar.
 - responsive (adjustable) navigation bar.
 - advanced CSS and @imported google fonts.
 </br>
-![View](https://user-images.githubusercontent.com/94203408/153797747-d67577b1-6c73-4036-bd1a-c21400faa2ae.png)
+![navigationBar](https://user-images.githubusercontent.com/94203408/153798345-7dd3cc7d-fc77-4279-9742-3edc5c859c41.png)
+
 
 
 
