@@ -10,7 +10,6 @@
 ## Responsive Navigation Bar.
 - responsive (adjustable) navigation bar.
 - advanced CSS and @imported google fonts.
-</br>
 ![navigationBar](https://user-images.githubusercontent.com/94203408/153798345-7dd3cc7d-fc77-4279-9742-3edc5c859c41.png)
 
 
